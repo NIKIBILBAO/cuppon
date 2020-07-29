@@ -1,0 +1,25 @@
+body{
+font-family: 'Roboto', sans-serif;
+
+}
+.precio_oferta{
+font-size: 20px;
+}
+
+.containerprecio{
+align-items: baseline;
+}
+
+p{
+padding: 0; 
+margin: 0;  
+}
+
+div[class^='col-']{
+border: 9px solid white;
+}
+
+.recibe{
+font-size: 20pt;
+
+}
